@@ -5,15 +5,17 @@ Inhalt:
   -Memium Gerichts Gesetz (MGG)
   -Allgemeines Überlegenheits Gesetz (AÜG)
 
-Memium Gesetz
+Memium Gesetzbuch
 §1 Allgemeies
-    (1) Das ehrenwerte Triumvirat ist der verwalter dieses Gesetzes. Für eine Änderung benötigt es eine 3/3 Mehrheit
+    (1) Das ehrenwerte Triumvirat ist der Verwalter dieses Gesetzes. Für eine Änderung benötigt es eine 3/3 Mehrheit
+    (2) Geltungsbereich: Das MGB gilt für alle Mitglieder der "Besonderen Ecke" sowie alle mit "Memium" assoziierten Gruppen
 §2 Skatordnug
-    (1) Sobald die Möglichkeit eines Skatspils besteht und 2 andere den Wunsch haben zu spielen ist das Mitspielen verpflichtend
-    (2) Ausgennomen von Abs1 sind Angelegenheiten wie Essen, medizinische Notwendigkeiten und Schulische Verpflichtungen
+    (1) Sobald die Möglichkeit eines Skatspiels besteht und 2 andere den Wunsch haben zu spielen ist das Mitspielen verpflichtend
+    (2) Ausgennomen von Abs1 sind Angelegenheiten wie Essen, medizinische Notwendigkeiten und schulische Verpflichtungen
     (3) Das betreten der Skatfläche mit Nassen Schuhen ist untersagt
     (4) Beim Mitspielen sind Mitglieder des Ehrenwerten Triumvirats den anderen bevorzugt
-    
+    Anhang 1: Verhältnis zu den Reichsgesetzen
+    Die Gesetze der "Bundesrepublik Deutschland" finden Anwendung soweit sie nicht im Knflikt mit dem MGB stehen
 Memium Menschen Rechts Konvention 
 §1 Unpremium Menschen haben keine Rechte
 
@@ -30,4 +32,6 @@ Memium Gerichts Gesetz
 Allgemeines Überlegenheits Gesetz
 §1 Die Mitgleider des ehrenwerten Triumvirats sind allen überlegen
 §2 Die Mitgleider des ehrenwerten Triumvirats sind untereinander gleichgestellt
-§3 Die Mitgleider des ehrenwerten Triumvirats Richter des MGH
+§3 Die Mitgleider des ehrenwerten Triumvirats sind Richter des MGH
+
+
